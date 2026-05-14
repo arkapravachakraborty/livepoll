@@ -1,0 +1,1 @@
+ALTER TABLE "poll_table" ADD COLUMN "is_closed" boolean DEFAULT false;
